@@ -1,10 +1,9 @@
 publiccodeYmlVersion: "0.1"
-
-name: "PetStoreBundle"
-url: "https://github.com/CommonGateway/PetStoreBundle"
+name: "EmigratieVrijBRPBundle"
+url: "https://github.com/CommonGateway/EmigratieVrijBRPBundle"
 releaseDate: "2022-10-01"
-
 softwareType: addon
+
 platforms:
   - web
   
@@ -13,9 +12,8 @@ categories:
   - it-development
   
 developmentStatus: beta
-
 description:
   nl:
-    shortDescription: "Een symfony bundel als voorbeeld."
+    shortDescription: "EmigratieVrijBRPBundle"
   en:
-    shortDescription: "A symfony bundle as example."
+    shortDescription: "EmigratieVrijBRPBundle"
